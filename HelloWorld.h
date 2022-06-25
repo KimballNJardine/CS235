@@ -6,11 +6,9 @@
 #define CS235_HELLOWORLD_H
 
 
-
 class HelloWorld {
 
 };
-
 
 
 #endif //CS235_HELLOWORLD_H

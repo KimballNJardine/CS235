@@ -1,0 +1,3 @@
+C:/Users/Kimball/CLionProjects/CS235/CS235/cmake-build-debug/CMakeFiles/CS235.dir
+C:/Users/Kimball/CLionProjects/CS235/CS235/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kimball/CLionProjects/CS235/CS235/cmake-build-debug/CMakeFiles/rebuild_cache.dir
